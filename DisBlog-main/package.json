@@ -1,21 +1,21 @@
 {
   "name": "developing-tech",
   "version": "1.0.0",
-  "description": "This a CMS-style blog site similar to a Wordpress site, where developers can publish their blog posts and comment on other developers’ posts as well",
+  "description": "This a CMS-style blog",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MtendeRoll/developing-tech.git"
+    "url": ""
   },
-  "author": "Mtende Roll",
-  "license": "MIT",
+  "author": "",
+  "license": "",
   "bugs": {
-    "url": "https://github.com/MtendeRoll/developing-tech/issues"
+    "url": ""
   },
-  "homepage": "https://github.com/MtendeRoll/developing-tech#readme",
+  "homepage": "",
   "dependencies": {
     "bcrypt": "^5.0.1",
     "connect-session-sequelize": "^7.1.4",
